@@ -1,0 +1,14 @@
+names:
+- balls
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: rugby-balls-zcnjx
+  url: https://universe.roboflow.com/muhie-kk0uz/rugby-balls-zcnjx/dataset/1
+  version: 1
+  workspace: muhie-kk0uz
+
+path: ../datasets/coco
+test: ../images
+train: ../images
+val: ../images
